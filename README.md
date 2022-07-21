@@ -10,7 +10,7 @@ Dataset link: http://archive.ics.uci.edu/ml/datasets/Iris
                 
         
   ## Task 2 - Stock Market Prediction And Forecasting Using Stacked LSTM
-   - From the given ‘Tata NSE’ dataset, predict the stock for28 days.
+   - From the given ‘Tata NSE’ dataset, predict the stock for 28 days.
  
  
    - Dataset Link: https://raw.githubusercontent.com/mwitiderrick/stockprice/master/NSE-TATAGLOBAL.csv
